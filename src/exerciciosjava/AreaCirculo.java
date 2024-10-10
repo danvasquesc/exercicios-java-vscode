@@ -4,6 +4,15 @@ Considere o valor de π = 3.14159 */
 
 package src.exerciciosjava;
 
+import java.util.Scanner;
+
 public class AreaCirculo {
+    public static void main(String[] args) {
+
+        try (Scanner sc = new Scanner(System.in)) {
+        
+    }
+
+}
 
 }
