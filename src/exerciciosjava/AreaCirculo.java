@@ -20,7 +20,7 @@ public class AreaCirculo {
             System.out.println("Digite o valor do raio do círculo: ");
             raio = sc.nextDouble();
 
-            area = PI * Math.pow(raio, 2);  //método Math para calcular o raio ao quadrado
+            area = PI * (raio * raio);
 
             System.out.printf("A area do círculo é: %.4f", area);
 
