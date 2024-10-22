@@ -17,7 +17,7 @@ public class SalarioFuncionario {
 
         try (Scanner sc = new Scanner(System.in)) {
 
-            System.out.print("Digite o ID do funcionário: ");
+            System.out.print("Digite a ID do funcionário: ");
             idFuncionario = sc.nextInt();
 
             System.out.print("Digite o número de horas trabalhadas: ");
