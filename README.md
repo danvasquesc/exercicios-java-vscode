@@ -9,8 +9,8 @@ O repositório contará com exercícios resolvidos, solicitados do curso [Java C
 
 ## 📌 Ferramenta utilizada e como instalar:
 
-Para a construção dos algoritmos, utilizei o Visual Studio Code (VS Code) como editor de código. Além disso, utilizo o Git para controle de versão, permitindo que eu gerencie o histórico das alterações e facilite colaborações.
-Caso queira instalar o Visual Studio Code, acesse o site oficial, faça o download da versão apropriada para o seu sistema operacional e siga as instruções de instalação.
+Para a construção dos algoritmos, utilizei o Visual Studio Code (VS Code) como editor de código, intercalando com o a IDE Eclipse, que uso quando estudo em casa, por a mesma estar em minha máquina. Além disso, utilizo o Git para controle de versão, permitindo que eu gerencie o histórico das alterações e facilite colaborações.
+Caso queira instalar o Visual Studio Code e a IDE Eclipse, acesse o site oficial, faça o download da versão apropriada para o seu sistema operacional e siga as instruções de instalação.
 
 Para o Git, siga os passos no site oficial do Git, faça o download e siga as instruções para instalar e configurar o Git na sua máquina.
 
