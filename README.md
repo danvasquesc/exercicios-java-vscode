@@ -1,4 +1,4 @@
-# 👾 Exercícios sobre Estrutura Sequencial em Java
+# 👾 Exercícios de Estrutura Sequencial em Java
 
 ## 📌 Proposta do projeto:
 
@@ -13,7 +13,7 @@ O repositório contará com exercícios resolvidos, solicitados do curso [Java C
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Para a construção dos algoritmos, utilizo o Visual Studio Code (VS Code) como editor de código, intercalando com o a IDE Eclipse para o Java, que uso quando estudo em casa. Além disso, utilizo o Git para controle de versão, permitindo que eu gerencie o histórico das alterações e facilite colaborações.
+Para a construção dos algoritmos, utilizo o Visual Studio Code (VS Code) como editor de código, intercalando com o a IDE Eclipse para o Java, que uso quando estudo em casa. Além disso, utilizo o Git para controle de versão, permitindo que eu gerencie o histórico das alterações.
 
 <br>
 
@@ -29,8 +29,6 @@ Esses exercícios são obtidos da plataforma URI Online Judge e são essenciais 
 Cada título de arquivo e classe segue o resumo da questão. Por exemplo, para o exercício que solicita a soma de dois números inteiros, o arquivo e a classe têm o nome Soma.java. Essa organização mantém os arquivos claros e fáceis de identificar, facilitando o entendimento e a navegação pelo repositório.
 
 <br>
-
-### *Deixe seu pull requests para melhoria dos algoritmos*
 
 ---
 
