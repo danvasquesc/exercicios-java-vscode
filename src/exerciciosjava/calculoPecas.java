@@ -34,6 +34,9 @@ public class calculoPecas {
             System.out.print("Valor unitário da peça 2: ");
             valorPeca2 = sc.nextDouble();
 
+            valorTotal = (numPeca1 * valorPeca1) + (numPeca2 * valorPeca2);
+
+            System.out.printf("VALOR A PAGAR: R$ %.2f", valorTotal);
         }
 
     }
