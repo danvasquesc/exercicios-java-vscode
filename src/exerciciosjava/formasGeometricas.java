@@ -5,9 +5,6 @@ b) a área do círculo de raio C. (pi = 3.14159)
 c) a área do trapézio que tem A e B por bases e C por altura.
 d) a área do quadrado que tem lado B.
 e) a área do retângulo que tem lados A e B. */
-
-
-
 package src.exerciciosjava;
 
 import java.util.Locale;
@@ -19,19 +16,30 @@ public class formasGeometricas {
 
         Locale.setDefault(Locale.US);
 
-        double A, B, C, TRIANGULO, CIRCULO, TRAPEZIO, QUADRADOO, RETANGULO;
+        double A, B, C, TRIANGULO, CIRCULO, TRAPEZIO, QUADRADO, RETANGULO;
 
         try (Scanner sc = new Scanner(System.in)) {
 
-            System.out.print("Digite o valor de A:");
+            System.out.print("Digite o valor de A: ");
             A = sc.nextDouble();
 
-            System.out.print("Digite o valor de B:");
+            System.out.print("Digite o valor de B: ");
             B = sc.nextDouble();
 
-            System.out.print("Digite o valor de C:");
+            System.out.print("Digite o valor de C: ");
             C = sc.nextDouble();
 
+            TRIANGULO = (A * C) / 2;
+            CIRCULO = 3.14159 * Math.pow(C, 2);
+            TRAPEZIO = ((A + B) * C) / 2;
+            QUADRADO = Math.pow(B, 2);
+            RETANGULO = A * B;
+
+            System.out.printf("TRIANGULO: %.3f%n", TRIANGULO);
+            System.out.printf("CIRCULO: %.3f%n", CIRCULO);
+            System.out.printf("TRAPEZIO: %.3f%n", TRAPEZIO);
+            System.out.printf("QUADRADO: %.3f%n", QUADRADO);
+            System.out.printf("RETANGULO: %.3f%n", RETANGULO);
 
         }
 
