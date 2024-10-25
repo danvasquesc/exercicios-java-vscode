@@ -34,6 +34,9 @@ public class porcentagemVotos {
             porcentagemNulos = ((double) votosNulos / totalEleitores) * 100;
             porcentagemValidos = ((double) votosValidos / totalEleitores) * 100;
 
+            System.out.printf("Porcentagem de votos brancos: %.0f%%%n", porcentagemBrancos);/*duas %% para sair o simbolo no numero */
+            System.out.printf("Porcentagem de votos nulos: %.0f%%%n", porcentagemNulos);
+            System.out.printf("Porcentagem de votos válidos: %.0f%%%n", porcentagemValidos);
         }
 
     }
