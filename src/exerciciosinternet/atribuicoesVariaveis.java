@@ -18,7 +18,8 @@ public class atribuicoesVariaveis {
         System.out.println("A = " + A);
         System.out.println("B = " + B);
 
-        variavelTemporaria = A;   //alocar o valor temporariamente pro A não ficar perdido
+        /*alocar o valor temporariamente pro A não ficar perdido*/
+        variavelTemporaria = A;
         A = B;
         B = variavelTemporaria;
 
