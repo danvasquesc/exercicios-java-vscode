@@ -5,7 +5,7 @@ package src.exercicioscurso;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class calculoPecas {
+public class CalculoPecas {
 
     public static void main(String[] args) {
 
