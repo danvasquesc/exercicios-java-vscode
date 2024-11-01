@@ -5,7 +5,7 @@ package src.exerciciosinternet;
 
 import java.util.Scanner;
 
-public class salariosMinimosGanhos {
+public class SalariosMinimosGanhos {
 
     public static void main(String[] args) {
 
