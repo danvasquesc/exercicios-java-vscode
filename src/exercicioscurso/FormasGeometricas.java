@@ -10,7 +10,7 @@ package src.exercicioscurso;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class formasGeometricas {
+public class FormasGeometricas {
 
     public static void main(String[] args) {
 
