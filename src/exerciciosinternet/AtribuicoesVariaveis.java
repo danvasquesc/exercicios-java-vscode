@@ -6,7 +6,7 @@ nas variáveis. */
 
 package src.exerciciosinternet;
 
-public class atribuicoesVariaveis {
+public class AtribuicoesVariaveis {
 
     public static void main(String[] args) {
 
