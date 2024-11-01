@@ -6,7 +6,7 @@ package src.exerciciosinternet;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class porcentagemVotos {
+public class PorcentagemVotos {
 
     public static void main(String[] args) {
 
