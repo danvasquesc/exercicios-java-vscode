@@ -3,7 +3,7 @@ package src.exerciciosinternet;
 
 import java.util.Scanner;
 
-public class numeroAntecessor {
+public class NumeroAntecessor {
 
     public static void main(String[] args) {
 
