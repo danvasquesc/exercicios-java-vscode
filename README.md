@@ -1,8 +1,7 @@
-# 📂 Exercícios de Estrutura Sequencial em Java no VSCode
+# 📂 Exercícios em Java
 
-## 📌 Proposta do projeto:
-
-Este repositório foi criado para registrar e acompanhar a evolução na construção de algoritmos e lógica de programação em Java. Com base no curso [Java COMPLETO - Programação Orientada a Objetos](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING), do professor Nelio Alves, e com exercícios complementares da internet, cada resolução é uma oportunidade de prática, que ajuda a solidificar os conceitos essenciais.
+## 📌 Proposta do Projeto
+Este repositório foi criado para documentar e acompanhar minha evolução em lógica de programação e desenvolvimento em Java, com foco em uma ampla gama de tópicos abordados no curso [Java COMPLETO - Programação Orientada a Objetos](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING), ministrado pelo professor Nelio Alves, e com exercícios complementares da internet. Cada resolução aqui é uma oportunidade de prática, reforçando conceitos essenciais da programação orientada a objetos e das estruturas fundamentais em Java.
 
 <br>
 
@@ -14,20 +13,30 @@ Este repositório foi criado para registrar e acompanhar a evolução na constru
 <br>
 
 ## 📌 Organização dos Exercícios
-Estão organizados em pastas de acordo com suas categorias e o tema abordado. Eles são divididos em:
+Os exercícios estão organizados em pastas de acordo com a origem e o tema:
 
-• `exercicioscurso`: Exercícios do curso Java COMPLETO <br>
-• `exerciciosinternet`: Exercícios adicionais da internet, em PDFs, conteúdos acadêmicos, etc.
+• `exercicioscurso`: Contém todos os exercícios do curso em Java, abrangendo diversos temas, como estrutura sequencial, orientação a objetos, estruturas de repetição e muito mais. <br>
+• `exerciciosinternet`: Exercícios adicionais retirados da internet, como PDFs e conteúdos acadêmicos, para prática extra. Aqui, a resolução será feita usando o Visual Studio Code, enquanto para o Eclipse há um repositório específico.
 
 ### Estrutura e Nomeação
-Cada arquivo e classe segue o padrão de nomeação que reflete o objetivo do exercício, como `Soma.java` para exercícios que tratam de soma de valores. Essa organização facilita a localização e compreensão dos arquivos para estudo e referência futura.
+Cada arquivo e classe são nomeados conforme a proposta de cada exercício, facilitando a localização e a compreensão, como `Soma.java` para exercícios de soma de valores. Essa padronização ajuda a organizar o estudo e a futura referência.
+
+<br>
+
+## 📌 Links para os PDFs dos Exercícios
+Para facilitar o acesso aos materiais, aqui estarão disponibilizados os links dos PDFs dos exercícios, separados por tema:
+
+[Estrutura Sequencial](exercicios1-estrutura-sequencial-nelioalves.pdf) <br>
+[Estrutura Condicional](02-exercicios2-estrutura-condicional.pdf) <br>
+
+*Os links serão atualizados conforme novos materiais forem adicionados.*
 
 <br>
 
 ## 📌 Como Utilizar o Repositório
-1. **Download**: Faça o download dos arquivos clicando em `Code` e selecionando `Download ZIP`.
-2. **Exploração do Código**: Abra o projeto em sua IDE ou editor preferido e explore os exercícios de acordo com suas necessidades de prática e estudo.
-3. **Modificação**: Experimente criar novas versões dos exercícios, testando variações de entrada e processamento para melhorar sua compreensão dos conceitos.
+1. **Download** Baixe o repositório clicando em `Code` e selecionando `Download ZIP` ou clone via Git.
+2. **Exploração do Código**: Abra o projeto na IDE ou editor de sua preferência e explore os exercícios conforme seu interesse e necessidade de prática.
+3. **Modificação** Experimente modificar e adaptar os exercícios, testando novas entradas e saídas para aprofundar a compreensão dos conceitos.
 
 ---
 
