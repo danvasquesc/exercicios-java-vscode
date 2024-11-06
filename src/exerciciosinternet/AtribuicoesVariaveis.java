@@ -3,9 +3,6 @@ A seguir (utilizando apenas atribuições entre variáveis) troque os seus conte
 valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados
 nas variáveis. */
 
-
-package src.exerciciosinternet;
-
 public class AtribuicoesVariaveis {
 
     public static void main(String[] args) {

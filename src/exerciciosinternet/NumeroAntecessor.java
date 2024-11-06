@@ -1,5 +1,4 @@
 /*Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor */
-package src.exerciciosinternet;
 
 import java.util.Scanner;
 
