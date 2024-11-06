@@ -26,8 +26,8 @@ Cada arquivo e classe são nomeados conforme a proposta de cada exercício, faci
 ## 📌 Links para os PDFs dos Exercícios
 Para facilitar o acesso aos materiais, aqui estarão disponibilizados os links dos PDFs dos exercícios, separados por tema:
 
-[Estrutura Sequencial](exercicios1-estrutura-sequencial-nelioalves.pdf) <br>
-[Estrutura Condicional](02-exercicios2-estrutura-condicional.pdf) <br>
+[Estrutura Sequencial](listaexercicios/exercicios1-estrutura-sequencial-nelioalves.pdf) <br>
+[Estrutura Condicional](listaexercicios/02-exercicios2-estrutura-condicional.pdf) <br>
 
 *Os links serão atualizados conforme novos materiais forem adicionados.*
 
