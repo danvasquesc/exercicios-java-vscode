@@ -5,7 +5,7 @@ Este repositório foi criado para documentar e acompanhar minha evolução em l�
 
 <br>
 
-## 📌 Ferramentas utilizadas:
+## 📌 Ferramentas Utilizadas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -34,7 +34,7 @@ Para facilitar o acesso aos materiais, aqui estarão disponibilizados os links d
 <br>
 
 ## 📌 Como Utilizar o Repositório
-1. **Download** Baixe o repositório clicando em `Code` e selecionando `Download ZIP` ou clone via Git.
+1. **Download**: Baixe o repositório clicando em `Code` e selecionando `Download ZIP` ou clone via Git.
 2. **Exploração do Código**: Abra o projeto na IDE ou editor de sua preferência e explore os exercícios conforme seu interesse e necessidade de prática.
 3. **Modificação** Experimente modificar e adaptar os exercícios, testando novas entradas e saídas para aprofundar a compreensão dos conceitos.
 
