@@ -20,10 +20,21 @@ public class ItemQuantidade {
             quantidade = sc.nextInt();
 
             if (codigo == 1) {
-                
+                valorTotal = 4 * quantidade;
+            } else 
+            if (codigo == 2) {
+                valorTotal = 4.5 * quantidade;
+            } else 
+            if (codigo == 3) {
+                valorTotal = 5 * quantidade;
+            } else 
+            if (codigo == 4) {
+                valorTotal = 2 * quantidade;
+            } else {
+                valorTotal = 1.5 * quantidade;
             }
 
-            
+            System.out.println("Total: R$ " + valorTotal + "0");
 
         }
 
