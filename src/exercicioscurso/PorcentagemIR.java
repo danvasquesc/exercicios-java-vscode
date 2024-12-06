@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class PorcentagemIR {
 
     public static void main(String[] args) {
-        
+
         Locale.setDefault(Locale.US);
 
         double salario, valorImposto;
@@ -24,10 +24,24 @@ public class PorcentagemIR {
             System.out.print("Digite seu salário: R$ ");
             salario = sc.nextDouble();
 
-            
+            valorImposto = 0.0;
 
+            if (salario <= 2000.00) {
+                valorImposto = 0.0;
+            } else if (salario <= 3000.00) {
+                valorImposto = (salario - 2000.00) * 0.08; /* 2000 tira o valor da faixa anterior */
+            } else if (salario <= 4500.00) {
+                valorImposto = (salario - 3000.00) * 0.18 + 1000.00 * 0.08;
+            } else {
+                valorImposto = (salario - 4500.00) * 0.28 + 1500.00 * 0.18 + 1000.00 * 0.08;
+            }
+
+            /* criada condicao para mostrar o resultado */
+            if (valorImposto == 0.0) {
+                System.out.println("Isento");
+            } else {
+                System.out.printf("R$ %.2f", valorImposto);
+            }
         }
-
     }
-
 }
