@@ -28,6 +28,7 @@ Para facilitar o acesso aos materiais, aqui estarão disponibilizados os links d
 
 [Estrutura Sequencial](listaexercicios/exercicios1-estrutura-sequencial-nelioalves.pdf) <br>
 [Estrutura Condicional](listaexercicios/02-exercicios2-estrutura-condicional.pdf) <br>
+[Estrutura While](listaexercicios/02-exercicios3-estrutura-while.pdf) <br>
 
 *Os links serão atualizados conforme novos materiais forem adicionados.*
 
@@ -42,7 +43,7 @@ Para facilitar o acesso aos materiais, aqui estarão disponibilizados os links d
 
 ## 📌 Uso de Editores: VSCode e Eclipse
 Para meus estudos, utilizo o Visual Studio Code fora de casa, pois acesso uma máquina fornecida pelo trabalho, onde o Eclipse não está disponível. Assim, para não interromper o aprendizado, uso o editor que tenho à disposição, mesmo sabendo que uma IDE completa, como o Eclipse, oferece mais recursos.
-Quando estou em casa, utilizo o Eclipse no computador da minha namorada. Para manter uma organização consistente, criei outro repositório específico para os exercícios resolvidos no Eclipse. Você pode acessar este repositório aqui: [Exercícios Java - Eclipse](https://github.com/danvasquesc/exercicios_java_eclipse)
+Quando estou em casa, utilizo o Eclipse em outra máquina. Para manter uma organização consistente, criei outro repositório específico para os exercícios resolvidos no Eclipse. Você pode acessar este repositório aqui: [Exercícios Java - Eclipse](https://github.com/danvasquesc/exercicios_java_eclipse)
 
 ---
 
