@@ -29,6 +29,7 @@ Para facilitar o acesso aos materiais, aqui estarão disponibilizados os links d
 [Estrutura Sequencial](listaexercicios/exercicios1-estrutura-sequencial-nelioalves.pdf) <br>
 [Estrutura Condicional](listaexercicios/02-exercicios2-estrutura-condicional.pdf) <br>
 [Estrutura While](listaexercicios/02-exercicios3-estrutura-while.pdf) <br>
+[Estrutura For](listaexercicios/02-exercicios4-estrutura-for.pdf) <br>
 
 *Os links serão atualizados conforme novos materiais forem adicionados.*
 
