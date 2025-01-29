@@ -4,7 +4,7 @@ impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a 
 
 import java.util.Scanner;
 
-public class SenhaValida {
+public class Lista3Exercicio1 {
 
     public static void main(String[] args) {
 

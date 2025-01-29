@@ -4,7 +4,7 @@ menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem a
 
 import java.util.Scanner;
 
-public class CoordenadasWhile {
+public class Lista3Exercicio2 {
 
     public static void main(String[] args) {
 
@@ -16,10 +16,11 @@ public class CoordenadasWhile {
             x = sc.nextInt();
             y = sc.nextInt();
 
-            while (x != 0 && y != 0) { /*
+            while (x != 0 && y != 0) {
+                /*
                                         * && garante que as duas precisam ser verdadeiras pro while continuar, se uma
                                         * das duas for falsa, ja encerra
-                                        */
+                 */
                 if (x > 0 && y > 0) {
                     System.out.println("Primeiro");
                 } else if (x < 0 && y > 0) {

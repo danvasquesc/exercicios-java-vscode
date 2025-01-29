@@ -5,10 +5,9 @@ um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte 
 que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a
 mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme
 exemplo. */
-
 import java.util.Scanner;
 
-public class PreferenciaCombustivel {
+public class Lista3Exercicio3 {
 
     public static void main(String[] args) {
 
