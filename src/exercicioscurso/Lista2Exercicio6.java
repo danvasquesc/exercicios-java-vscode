@@ -5,7 +5,7 @@ nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo�
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Lista2Exercici {
+public class Lista2Exercicio6 {
 
     public static void main(String[] args) {
 

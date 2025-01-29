@@ -8,7 +8,7 @@ situação */
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Quadrante {
+public class Lista2Exercicio7 {
 
     public static void main(String[] args) {
 
@@ -24,16 +24,18 @@ public class Quadrante {
 
             if (valorX == 0.0 && valorY == 0.0) {
                 System.out.println("Origem");
-            } else if (valorX == 0.0) { /*Condição para mostrar que o ponto não está em nenhum quadrante, pois
+            } else if (valorX == 0.0) {
+                /*Condição para mostrar que o ponto não está em nenhum quadrante, pois
                                          * necessita de dois eixos para se formar um quadrante*/
                 System.out.println("Eixo Y");
-            } else if (valorY == 0.0) { /* Aqui a mesma coisa */
+            } else if (valorY == 0.0) {
+                /* Aqui a mesma coisa */
                 System.out.println("Eixo X");
             } else if (valorX > 0.0 && valorY > 0.0) {
                 System.out.println("Q1");
             } else if (valorX < 0.0 && valorY > 0.0) {
                 System.out.println("Q2");
-            } else if (valorX < 0.0 && valorY < 0.0) { 
+            } else if (valorX < 0.0 && valorY < 0.0) {
                 System.out.println("Q3");
             } else {
                 System.out.println("Q4");

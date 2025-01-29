@@ -11,7 +11,7 @@ duas casas decimais.*/
 import java.util.Locale;
 import java.util.Scanner;
 
-public class PorcentagemIR {
+public class Lista2Exercicio8 {
 
     public static void main(String[] args) {
 
@@ -29,7 +29,8 @@ public class PorcentagemIR {
             if (salario <= 2000.00) {
                 valorImposto = 0.0;
             } else if (salario <= 3000.00) {
-                valorImposto = (salario - 2000.00) * 0.08; /* 2000 tira o valor da faixa anterior */
+                valorImposto = (salario - 2000.00) * 0.08;
+                /* 2000 tira o valor da faixa anterior */
             } else if (salario <= 4500.00) {
                 valorImposto = (salario - 3000.00) * 0.18 + 1000.00 * 0.08;
             } else {
