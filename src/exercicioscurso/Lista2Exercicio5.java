@@ -4,7 +4,7 @@ seguir, calcule e mostre o valor da conta a pagar */
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ItemQuantidade {
+public class Lista2Exercicio5 {
 
     public static void main(String[] args) {
 

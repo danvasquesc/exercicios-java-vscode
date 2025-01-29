@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class ParImpar {
+public class Lista2Exercicio2 {
 
     public static void main(String[] args) {
 

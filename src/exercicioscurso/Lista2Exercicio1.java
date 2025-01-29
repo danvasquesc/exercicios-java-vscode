@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class inteiroNegativo {
+public class Lista2Exercicio1 {
 
     public static void main(String[] args) {
 

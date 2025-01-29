@@ -4,7 +4,7 @@ ordem crescente ou decrescente. */
 
 import java.util.Scanner;
 
-public class MultiplosEntreSi {
+public class Lista2Exercicio3 {
 
     public static void main(String[] args) {
 
