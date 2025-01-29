@@ -5,7 +5,7 @@ decimais. */
 import java.util.Locale;
 import java.util.Scanner;
 
-public class SalarioFuncionario {
+public class Lista1Exercicio4 {
 
     public static void main(String[] args) {
 

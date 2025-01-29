@@ -5,7 +5,7 @@ Considere o valor de π = 3.14159 */
 import java.util.Locale;
 import java.util.Scanner;
 
-public class AreaCirculo {
+public class Lista1Exercicio2 {
 
     public static void main(String[] args) {
 

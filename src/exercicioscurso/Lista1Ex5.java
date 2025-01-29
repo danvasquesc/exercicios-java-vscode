@@ -4,7 +4,7 @@ código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class CalculoPecas {
+public class Lista1Exercicio5 {
 
     public static void main(String[] args) {
 

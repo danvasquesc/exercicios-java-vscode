@@ -9,7 +9,7 @@ e) a área do retângulo que tem lados A e B. */
 import java.util.Locale;
 import java.util.Scanner;
 
-public class FormasGeometricas {
+public class Lista1Exercicio6 {
 
     public static void main(String[] args) {
 
