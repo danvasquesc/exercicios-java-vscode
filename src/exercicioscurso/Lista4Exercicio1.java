@@ -3,7 +3,7 @@ X, se for o caso. */
 
 import java.util.Scanner;
 
-public class ImparesUsandoFor {
+public class Lista4Exercicio1 {
 
     public static void main(String[] args) {
 
@@ -15,7 +15,8 @@ public class ImparesUsandoFor {
             x = sc.nextInt();
 
             for (i = 1; i <= x; i++) {
-                if (i % 2 != 0) { /* aqui aprova somente números impares. se for par, nao acontece nada */
+                if (i % 2 != 0) {
+                    /* aqui aprova somente números impares. se for par, nao acontece nada */
                     System.out.println(i);
                 }
             }
